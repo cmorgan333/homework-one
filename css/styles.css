@@ -375,13 +375,13 @@ footer .footer-container .socials .insta {
 }
 .procedure-content .procedure-box .procedure-info {
   min-height: 200px;
-  max-width: 1000px;
+  width: 1000px;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
 }
 .procedure-content .procedure-box .procedure-info .procedure-textbox {
-  width: 500px;
+  width: 480px;
   min-height: 400px;
   margin-top: 50px;
 }
